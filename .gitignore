@@ -1,0 +1,6 @@
+.DS_Store
+media/
+output/
+*.mp4
+*.mov
+api-keys.txt
